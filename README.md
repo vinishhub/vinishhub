@@ -8,11 +8,12 @@
 
 
 
-
-[![Vinish's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinishhub)](https://github.com/vinishhub/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinishhub&layout=compact)](https://github.com/vinishhub/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinishhub)](https://github.com/vinishhub/github-readme-stats)
-
+<a href="https://github.com/vinishhub/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinishhub&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/vinishhub/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinishhub&repo=convoychat" />
+</a>
 
 <!---
 vinishhub/vinishhub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
