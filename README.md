@@ -22,9 +22,6 @@
 </p>
 
 
-<p>
-  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/2PdNKkg0pyqct47ae5Pd7G?si=JYanpOP-QpOqrzp19yH1rg)
-  </p>
 
 <!---
 vinishhub/vinishhub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
