@@ -1,9 +1,5 @@
 - 👋 Hi, I’m Vinish
-- 👀 I’m interested in ML,Ai,Android,frontend,backend,ethical hacking
-- 🌱 I’m currently learning ML,AI,react,etc
-- 💞️ I’m looking to collaborate on gsoc
 - 📫 How to reach me [Mail](vinishas786@gmail.com)
-- 📽 video editor
 - 👨‍🎓
 
 
