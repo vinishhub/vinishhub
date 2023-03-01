@@ -6,18 +6,25 @@
 - 📽 video editor
 - 👨‍🎓
 
+
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinishhub&theme=tokyonight" alt="mystreak"/>
-
   </p>
-<p align="center">
-  <a href="https://github.com/vinishhub"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=vinishhub&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
-    </p>
-    <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinishhub&hide=java&layout=compact&&theme=tokyonight"/>
+  
+<p align="right">
+  <a href="https://github.com/vinishhub">
+    <span>
+ <img height="48%" src="https://github-readme-stats.vercel.app/api?username=vinishhub&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
+      <p>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinishhub&hide=java&layout=compact&&theme=tokyonight">
     </span></a>
+  </p>
 </p>
+
+
+<p>
+  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/2PdNKkg0pyqct47ae5Pd7G?si=JYanpOP-QpOqrzp19yH1rg)
+  </p>
 
 <!---
 vinishhub/vinishhub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
