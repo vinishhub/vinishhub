@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinish
-- 📫 How to reach me [Mail](vinishas786@gmail.com)
+- 📫 How to reach me [Mail](vinishvishwanath252@gmail.com)
 - 👨‍🎓
 
 
